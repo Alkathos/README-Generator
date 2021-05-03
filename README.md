@@ -29,7 +29,8 @@ After running the code you will be asked a series of questions, answer according
 
 ![code image](https://github.com/Alkathos/README-Generator/blob/main/img/node.PNG)
 
-![video](video\presentation.mp4)
+Video presentation of the code running and creating the README file.
+https://youtu.be/5JGXKLLeMj8
 
 ## License
 This generator requires no license
