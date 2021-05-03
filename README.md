@@ -27,7 +27,7 @@ node index.js
 ```
 After running the code you will be asked a series of questions, answer accordingly and if you do not have an answer, a default answer will be placed. At the end of the questions it will create a README file. If you chose a license it will add a badge by the title of the project. Below is the list of questions you will receive.
 
-![code image](img\node.PNG)
+![code image](https://github.com/Alkathos/README-Generator/blob/main/img/node.PNG)
 
 ![video](video\presentation.mp4)
 
